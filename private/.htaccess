@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Restricted access"
-AuthUserFile "C:\Users\ACHedwig\Documents\Web Development study course\HRweb\private\.htpasswd"
+AuthUserFile https://github.com/annexplorer/HRweb/blob/master/private/.htpasswd
 Require valid-user
