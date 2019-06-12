@@ -471,18 +471,7 @@ body {
 	}
 
 	/*Style for Log-in page form*/
-	.log-in-form {
-		height: 500px;
-		width: 450px;
-		text-align: center;
-		margin: auto;
-		background-color: #ccccff;
 
-	}
-	.log-in-form ul li {
-		list-style-type: none;
-
-	}
 
 	/*Style for footer*/
 	footer {
